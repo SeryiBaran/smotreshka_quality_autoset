@@ -1,10 +1,10 @@
 # WebExtension Vite Starter
 
 1. Скачайте extension.zip со страницы [https://github.com/SeryiBaran/smotreshka_quality_autoset/releases/latest/download/extension.zip](https://github.com/SeryiBaran/smotreshka_quality_autoset/releases/latest/download/extension.zip)
-2. Распакуйте архив куда-нибудь на `Локальный диск (C:)`
+2. Распакуйте архив куда-нибудь на `КОПИЛКА (E:)`
 3. Включите режим разработчика в разделе "Расширения" в Chrome
 4. Нажмите загрузить распакованное расширение, выберите **папку** в которой лежат файлы `assets`, `dist`, `manifest.json`
-5. НЕ УДАЛЯЙТЕ РАСПАКОВАННУЮ ПАПКУ!!!
+5. **НЕ УДАЛЯЙТЕ РАСПАКОВАННУЮ ПАПКУ!!!**
 
 Для разрабов: pnpm pack:zip не работает, пакуйте ручками
 
