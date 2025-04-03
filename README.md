@@ -1,7 +1,7 @@
 # WebExtension Vite Starter
 
 1. Скачайте extension.zip со страницы [https://github.com/SeryiBaran/smotreshka_quality_autoset/releases/latest/download/extension.zip](https://github.com/SeryiBaran/smotreshka_quality_autoset/releases/latest/download/extension.zip)
-2. Распакуйте архив куда-нибудь на `КОПИЛКА (E:)`
+2. Распакуйте архив куда-нибудь на `КОПИЛКА (E:)` и переименуйте как-нибудь типа "extension_smotreshka_kachestvo_CHROME" (как угодно главное только англ буквами и подчеркиванием или тире)
 3. Включите режим разработчика в разделе "Расширения" в Chrome
 4. Нажмите загрузить распакованное расширение, выберите **папку** в которой лежат файлы `assets`, `dist`, `manifest.json`
 5. **НЕ УДАЛЯЙТЕ РАСПАКОВАННУЮ ПАПКУ!!!**
